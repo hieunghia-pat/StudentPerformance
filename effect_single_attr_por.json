@@ -1,0 +1,86 @@
+[
+    {
+        "attribute": "school",
+        "P": 1.5661990923010003e-13
+    },
+    {
+        "attribute": "sex",
+        "P": 0.0009815287061374094
+    },
+    {
+        "attribute": "age",
+        "P": 0.00064397498682218
+    },
+    {
+        "attribute": "address",
+        "P": 1.7641534609223877e-05
+    },
+    {
+        "attribute": "Medu",
+        "P": 1.8856851949013944e-08
+    },
+    {
+        "attribute": "Fedu",
+        "P": 1.799113686794294e-06
+    },
+    {
+        "attribute": "Mjob",
+        "P": 8.305149884947716e-06
+    },
+    {
+        "attribute": "Fjob",
+        "P": 0.011376280623605205
+    },
+    {
+        "attribute": "reason",
+        "P": 1.3416422874903848e-06
+    },
+    {
+        "attribute": "traveltime",
+        "P": 0.012321097062070628
+    },
+    {
+        "attribute": "studytime",
+        "P": 5.705728458962215e-10
+    },
+    {
+        "attribute": "failures",
+        "P": 8.644516356425678e-30
+    },
+    {
+        "attribute": "higher",
+        "P": 3.4996595928307236e-18
+    },
+    {
+        "attribute": "internet",
+        "P": 0.00012489173447451603
+    },
+    {
+        "attribute": "romantic",
+        "P": 0.021002471524648784
+    },
+    {
+        "attribute": "famrel",
+        "P": 0.005684830602220462
+    },
+    {
+        "attribute": "freetime",
+        "P": 0.001389612248145631
+    },
+    {
+        "attribute": "goout",
+        "P": 1.6524803939952414e-05
+    },
+    {
+        "attribute": "Dalc",
+        "P": 1.898967184254829e-06
+    },
+    {
+        "attribute": "Walc",
+        "P": 0.00021933854464992325
+    },
+    {
+        "attribute": "health",
+        "P": 0.04574054303645427
+    }
+]

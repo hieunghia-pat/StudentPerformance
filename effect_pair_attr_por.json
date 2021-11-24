@@ -1,0 +1,232 @@
+[
+    {
+        "attribute_1": "school",
+        "attribute_2": "famsize",
+        "P": 0.020623360197044794
+    },
+    {
+        "attribute_1": "school",
+        "attribute_2": "activities",
+        "P": 0.02841855461890062
+    },
+    {
+        "attribute_1": "school",
+        "attribute_2": "Dalc",
+        "P": 0.03312923187989444
+    },
+    {
+        "attribute_1": "school",
+        "attribute_2": "Walc",
+        "P": 0.002530609167849999
+    },
+    {
+        "attribute_1": "sex",
+        "attribute_2": "Pstatus",
+        "P": 2.3883929553451873e-05
+    },
+    {
+        "attribute_1": "sex",
+        "attribute_2": "Walc",
+        "P": 0.0010290817550304802
+    },
+    {
+        "attribute_1": "age",
+        "attribute_2": "address",
+        "P": 0.04032828498718007
+    },
+    {
+        "attribute_1": "age",
+        "attribute_2": "reason",
+        "P": 0.04442694551785726
+    },
+    {
+        "attribute_1": "age",
+        "attribute_2": "failures",
+        "P": 1.3952379563853445e-08
+    },
+    {
+        "attribute_1": "address",
+        "attribute_2": "internet",
+        "P": 0.011411885516921202
+    },
+    {
+        "attribute_1": "address",
+        "attribute_2": "Dalc",
+        "P": 0.04947492077540862
+    },
+    {
+        "attribute_1": "address",
+        "attribute_2": "Walc",
+        "P": 0.030139679288515464
+    },
+    {
+        "attribute_1": "Pstatus",
+        "attribute_2": "failures",
+        "P": 0.018539529460322512
+    },
+    {
+        "attribute_1": "Medu",
+        "attribute_2": "reason",
+        "P": 0.0027038211943902265
+    },
+    {
+        "attribute_1": "Medu",
+        "attribute_2": "failures",
+        "P": 1.4115060359725806e-17
+    },
+    {
+        "attribute_1": "Medu",
+        "attribute_2": "nursery",
+        "P": 0.012751788942790747
+    },
+    {
+        "attribute_1": "Medu",
+        "attribute_2": "Dalc",
+        "P": 0.0001759290222736966
+    },
+    {
+        "attribute_1": "Fedu",
+        "attribute_2": "studytime",
+        "P": 3.012678974931302e-07
+    },
+    {
+        "attribute_1": "Fedu",
+        "attribute_2": "failures",
+        "P": 1.1790574037046281e-07
+    },
+    {
+        "attribute_1": "Fedu",
+        "attribute_2": "famsup",
+        "P": 0.024630613270535468
+    },
+    {
+        "attribute_1": "Fedu",
+        "attribute_2": "freetime",
+        "P": 0.01069377433505274
+    },
+    {
+        "attribute_1": "Fedu",
+        "attribute_2": "Dalc",
+        "P": 0.0003087676971031521
+    },
+    {
+        "attribute_1": "Fedu",
+        "attribute_2": "Walc",
+        "P": 0.004991966513952941
+    },
+    {
+        "attribute_1": "Mjob",
+        "attribute_2": "higher",
+        "P": 0.03133667947742691
+    },
+    {
+        "attribute_1": "Mjob",
+        "attribute_2": "famrel",
+        "P": 0.011411333602116984
+    },
+    {
+        "attribute_1": "Fjob",
+        "attribute_2": "traveltime",
+        "P": 0.00287413534912391
+    },
+    {
+        "attribute_1": "Fjob",
+        "attribute_2": "failures",
+        "P": 0.005576938958691709
+    },
+    {
+        "attribute_1": "Fjob",
+        "attribute_2": "Dalc",
+        "P": 3.5395897563303e-05
+    },
+    {
+        "attribute_1": "reason",
+        "attribute_2": "nursery",
+        "P": 0.004845007175807606
+    },
+    {
+        "attribute_1": "reason",
+        "attribute_2": "famrel",
+        "P": 0.00894210415097732
+    },
+    {
+        "attribute_1": "guardian",
+        "attribute_2": "failures",
+        "P": 7.949001601659943e-07
+    },
+    {
+        "attribute_1": "guardian",
+        "attribute_2": "goout",
+        "P": 0.03372049053391281
+    },
+    {
+        "attribute_1": "guardian",
+        "attribute_2": "Dalc",
+        "P": 0.026827663903614143
+    },
+    {
+        "attribute_1": "traveltime",
+        "attribute_2": "higher",
+        "P": 0.024167624635698104
+    },
+    {
+        "attribute_1": "failures",
+        "attribute_2": "schoolsup",
+        "P": 0.015552645272097794
+    },
+    {
+        "attribute_1": "failures",
+        "attribute_2": "famrel",
+        "P": 4.45918027039843e-09
+    },
+    {
+        "attribute_1": "failures",
+        "attribute_2": "freetime",
+        "P": 1.2407244686811927e-08
+    },
+    {
+        "attribute_1": "failures",
+        "attribute_2": "goout",
+        "P": 0.00013231861274547543
+    },
+    {
+        "attribute_1": "failures",
+        "attribute_2": "absences",
+        "P": 0.026588330931487773
+    },
+    {
+        "attribute_1": "famsup",
+        "attribute_2": "Dalc",
+        "P": 0.0020850564876589766
+    },
+    {
+        "attribute_1": "paid",
+        "attribute_2": "romantic",
+        "P": 0.042470826993094464
+    },
+    {
+        "attribute_1": "activities",
+        "attribute_2": "goout",
+        "P": 0.047195843914758846
+    },
+    {
+        "attribute_1": "higher",
+        "attribute_2": "famrel",
+        "P": 0.013897546964945788
+    },
+    {
+        "attribute_1": "higher",
+        "attribute_2": "Dalc",
+        "P": 0.003697055245909683
+    },
+    {
+        "attribute_1": "famrel",
+        "attribute_2": "Walc",
+        "P": 0.004018186905561793
+    },
+    {
+        "attribute_1": "goout",
+        "attribute_2": "Dalc",
+        "P": 0.0005495954202164514
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "attribute_1": "school",
+        "attribute_2": "failures",
+        "P": 0.016189695911129894
+    },
+    {
+        "attribute_1": "school",
+        "attribute_2": "goout",
+        "P": 0.013997816441214101
+    },
+    {
+        "attribute_1": "sex",
+        "attribute_2": "activities",
+        "P": 0.009257198856041178
+    },
+    {
+        "attribute_1": "sex",
+        "attribute_2": "Walc",
+        "P": 0.02234346236017889
+    },
+    {
+        "attribute_1": "age",
+        "attribute_2": "guardian",
+        "P": 0.04411412988289725
+    },
+    {
+        "attribute_1": "Medu",
+        "attribute_2": "Fedu",
+        "P": 0.0002633004242009392
+    },
+    {
+        "attribute_1": "Medu",
+        "attribute_2": "failures",
+        "P": 1.0306591984973443e-05
+    },
+    {
+        "attribute_1": "Medu",
+        "attribute_2": "schoolsup",
+        "P": 0.01059384784342464
+    },
+    {
+        "attribute_1": "Medu",
+        "attribute_2": "romantic",
+        "P": 0.031246021191688088
+    },
+    {
+        "attribute_1": "Fedu",
+        "attribute_2": "failures",
+        "P": 6.862418542856478e-09
+    },
+    {
+        "attribute_1": "Fedu",
+        "attribute_2": "health",
+        "P": 0.03613338922587644
+    },
+    {
+        "attribute_1": "Mjob",
+        "attribute_2": "higher",
+        "P": 0.00573550572818282
+    },
+    {
+        "attribute_1": "Fjob",
+        "attribute_2": "failures",
+        "P": 2.729914215887841e-05
+    },
+    {
+        "attribute_1": "Fjob",
+        "attribute_2": "health",
+        "P": 0.04972744309666614
+    },
+    {
+        "attribute_1": "reason",
+        "attribute_2": "studytime",
+        "P": 0.0024194754003131432
+    },
+    {
+        "attribute_1": "guardian",
+        "attribute_2": "failures",
+        "P": 0.009298154385539263
+    },
+    {
+        "attribute_1": "guardian",
+        "attribute_2": "famrel",
+        "P": 0.03350666116181245
+    },
+    {
+        "attribute_1": "failures",
+        "attribute_2": "famrel",
+        "P": 5.0547890931081665e-05
+    },
+    {
+        "attribute_1": "failures",
+        "attribute_2": "freetime",
+        "P": 0.0001766492454760987
+    },
+    {
+        "attribute_1": "failures",
+        "attribute_2": "absences",
+        "P": 0.043896676994634884
+    },
+    {
+        "attribute_1": "famsup",
+        "attribute_2": "activities",
+        "P": 0.020039719821776852
+    },
+    {
+        "attribute_1": "nursery",
+        "attribute_2": "higher",
+        "P": 0.03164794723446206
+    },
+    {
+        "attribute_1": "higher",
+        "attribute_2": "internet",
+        "P": 0.034070733761149906
+    },
+    {
+        "attribute_1": "higher",
+        "attribute_2": "goout",
+        "P": 0.04522278133280562
+    },
+    {
+        "attribute_1": "higher",
+        "attribute_2": "Walc",
+        "P": 0.04876732948950877
+    },
+    {
+        "attribute_1": "romantic",
+        "attribute_2": "freetime",
+        "P": 0.003959191036314746
+    }
+]
