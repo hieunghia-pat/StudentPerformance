@@ -1,7 +1,7 @@
 EDA and Modeling on the Student Performance dataset.
 ----
 
-In this work, we use One-way and Two-way ANOVA testing for filter out which attributes is the most effective on the target of the ![http://www3.dsi.uminho.pt/pcortez/student.pdf](Student Performance) dataset.
+In this work, we use One-way and Two-way ANOVA testing for filter out which attributes is the most effective on the target of the (Student Performance)[http://www3.dsi.uminho.pt/pcortez/student.pdf] dataset.
 
 Some main source files:
 + [Student_por_basic_statistics.ipynb](Student_por_basic_statistics.ipynb): EDA on the student Portugueuse socres dataset.
